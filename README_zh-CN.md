@@ -1,6 +1,6 @@
-# NCraft-go 项目标准布局
+# ncraft-gokit 项目标准布局
 
-NCraft-go 的项目目录标准参考: [Standard Go Project Layout](https://github.com/golang-standards/project-layout)，基于这个标准做了一些删减，并针对微服务的特定场景做了更细化的目录规定。
+ncraft-gokit 的项目目录标准参考: [Standard Go Project Layout](https://github.com/golang-standards/project-layout)，基于这个标准做了一些删减，并针对微服务的特定场景做了更细化的目录规定。
 
 [TOC]
 

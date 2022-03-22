@@ -1,4 +1,4 @@
-# Standard NCraft-go Project Layout
+# Standard ncraft-gokit Project Layout
 
 Translations:
 
